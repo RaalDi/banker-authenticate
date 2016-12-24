@@ -1,4 +1,4 @@
-package com.raaldi.banker.authentication.token;
+package com.raaldi.banker.authorization.token;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 

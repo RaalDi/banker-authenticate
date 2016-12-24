@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.raaldi.banker</groupId>
-  <artifactId>banker-authenticate</artifactId>
+  <artifactId>banker-authorize</artifactId>
   <version>1.0.0-SNAPSHOT</version>
 
-  <name>Banke Authenticate</name>
-  <description>Banker Authentication Module</description>
+  <name>Banke Authorize</name>
+  <description>Banker Authorization Module</description>
 
   <parent>
     <groupId>com.raaldi.banker</groupId>
